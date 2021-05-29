@@ -23,17 +23,17 @@
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="https://github.com/ishikkkkaaaa/100-DAYS-of-CODE---PYTHON/blob/main/Day%204-Rock%2CPaper%2CScissors/main.py">Rock,Paper,Scissors</a></td>
+    <td><a href="https://github.com/ishikkkkaaaa/100-DAYS-of-CODE---PYTHON/blob/main/Day%204-%20Rock%2CPaper%2CScissors/main.py">Rock,Paper,Scissors</a></td>
     <td>List, split, random module</td>
   </tr>
   <tr>
     <td>5</td>
-    <td><a href="https://github.com/ishikkkkaaaa/100-DAYS-of-CODE---PYTHON/blob/main/Day%202-%20Tip%20Calculator/main.py">Password Generator</a></td>
+    <td><a href="https://github.com/ishikkkkaaaa/100-DAYS-of-CODE---PYTHON/blob/main/Day%205-%20Password%20Generator/main.py">Password Generator</a></td>
     <td>Range, Loop</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Factorial</td>
+    <td>Function, recurssion</td>
   </tr>
 </table>
