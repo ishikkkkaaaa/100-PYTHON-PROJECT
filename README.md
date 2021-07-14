@@ -37,8 +37,14 @@
     <td>Function, recurssion</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>7</td>
     <td><a href="https://github.com/ishikkkkaaaa/100-DAYS-of-CODE---PYTHON/blob/main/Day%205-%20Password%20Generator/main.py">Hangman</a></td>
-    <td>Range,Loop,strings,module</td>
+    <td>Function</td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td><a href="https://github.com/ishikkkkaaaa/100-DAYS-of-CODE---PYTHON/blob/main/Day%205-%20Password%20Generator/main.py">Caeser Cipher</a></td>
+    <td>Function,argumnets& Parameters</td>
+  </tr>
+  
 </table>
