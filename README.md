@@ -48,7 +48,18 @@
   </tr> 
   <tr>
     <td>9</td>
-    <td><a href="https://github.com/ishikkkkaaaa/100-PYTHON-PROJECT/blob/main/DAY%208-%20Caeser%20Cipher/main.py">Secret Auction Program</a></td>
+    <td><a href="https://github.com/ishikkkkaaaa/100-PYTHON-PROJECT/blob/main/Day%209-%20Python%20Dictionary%20Quiz/main.py">Secret Auction Program</a></td>
     <td>Dictonary and nestings</td>
   </tr> 
+  <tr>
+    <td>10</td>
+    <td><a href="https://github.com/ishikkkkaaaa/100-PYTHON-PROJECT/blob/main/DAY%208-%20Caeser%20Cipher/main.py">Calculator App</a></td>
+    <td>Functions with outputs</td>
+  </tr> 
+  <tr>
+    <td>11</td>
+    <td><a href="https://github.com/ishikkkkaaaa/100-PYTHON-PROJECT/blob/main/DAY%208-%20Caeser%20Cipher/main.py">Blackjack capstone project</a></td>
+    <td>All above concepts</td>
+  </tr>      
 </table>
+
